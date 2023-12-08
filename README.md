@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React route, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nahida30/nahida30](https://github.com/nahida30/)
+- 👨‍💻 All of my projects are available at [https://github.com/nahida30/](https://github.com/nahida30/)
 
 - 📫 How to reach me **nahidazmn@gmail.com**
 
