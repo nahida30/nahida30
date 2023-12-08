@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Nahida Zaman Bina</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<!-- <img align="right" alt="image" width="400" src="https://raw.githubusercontent.com/nahida30/nahida30/main/Banner2.png"> -->
+<img align="right" alt="image" width="400" height="400" src="https://raw.githubusercontent.com/nahida30/nahida30/main/Banner2.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahida30&label=Profile%20views&color=0e75b6&style=flat" alt="nahida30" /> </p>
 
 - 🌱 I’m currently learning **React route, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nahida30?tab=repositories](https://github.com/nahida30?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/nahida30/](https://github.com/nahida30?tab=repositories)
 
 - 📫 How to reach me **nahidazmn@gmail.com**
 
